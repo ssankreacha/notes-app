@@ -1,4 +1,4 @@
-# 📝 Simple Notes App (Java)
+# 📝 Simple Notes App
 
 ## 📌 Overview
 The **Simple Notes App** is a **Java-based console application** that allows users to **create, view, edit, delete, and search notes**. It also **saves notes to a file (`notes.txt`)**, ensuring that notes are **persisted across sessions**.
@@ -58,3 +58,8 @@ The **Simple Notes App** is a **Java-based console application** that allows use
 - 🚀 Database Integration with MySQL
 - 🚀 Cloud Storage for Notes
 
+---
+
+##🎯 Author
+- ♨️ Developed by Shailen Sankreacha
+- 📧 Contact: shailen.san@gmail.com
